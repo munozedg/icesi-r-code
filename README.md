@@ -1,1 +1,1 @@
-# icesi-reparo-rstudio
+# bioestadsitica avanzada
